@@ -1,6 +1,6 @@
 # Overview of Iceland's golf clubs
 
-I decided to make an app showcasing Iceland's many golf clubs and courses. I decided on this as it was an idea from my boyfriend and I couldn't think of anything else. Given more time I probably could come up with something better but for now this is what you're stuck with. :D
+I decided to make an app showcasing Iceland's many golf clubs and courses. I decided on this idea from my boyfriend because I couldn't think of anything else. Given more time I probably could come up with something better but for now this is what you're stuck with. :D
 
 ## Running the app
 
